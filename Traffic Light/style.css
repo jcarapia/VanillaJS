@@ -1,0 +1,41 @@
+body, div {
+	margin: 0;
+	padding: 0;
+}
+
+#traffic {
+	margin: 50px auto;
+	padding: 5px;
+	width: 200px;
+	height: 500px;
+	background-color: #000;
+	border-radius: 20px;
+}
+
+.light {
+	cursor: pointer;
+	width: 150px;
+	height: 150px;
+	margin: 12px auto;
+	border-radius: 50%;
+}
+
+
+.off {
+	opacity: 0.5;
+}
+
+#red {
+	background-color: red;
+}
+
+#green {
+	background-color: green;
+}
+
+#yellow {
+	background-color: yellow;
+}
+
+
+
